@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Aperture ring -->
+    <path android:fillColor="#00000000" android:strokeColor="#F4B860" android:strokeWidth="5"
+        android:pathData="M54,30a24,24 0,1 1,0 48a24,24 0,1 1,0 -48z" />
+    <!-- Thirds grid hint -->
+    <path android:fillColor="#00000000" android:strokeColor="#66FFFFFF" android:strokeWidth="1.5"
+        android:pathData="M46,36L46,72M62,36L62,72M36,46L72,46M36,62L72,62" />
+    <!-- Subject point on a third intersection -->
+    <path android:fillColor="#F4B860"
+        android:pathData="M62,46m-4.5,0a4.5,4.5 0,1 1,9 0a4.5,4.5 0,1 1,-9 0" />
+</vector>
